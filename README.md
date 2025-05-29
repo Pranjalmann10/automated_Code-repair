@@ -1,3 +1,6 @@
+##also added the first approach to this problem with untitled1 jupyter notebook
+
+
 # Automated Code Repair Agent
 
 This project implements an automated code repair agent that can detect and fix common programming defects in Python code. The agent uses a combination of traditional AST-based analysis and Large Language Models (LLMs) to perform code repairs.
