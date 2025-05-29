@@ -1,0 +1,42 @@
+Program Name,Defect Type,Success,Repair Time (s)
+bitcount,Incorrect assignment operator,True,0.0060040950775146484,
+breadth_first_search,Missing function call,True,0.004990816116333008,
+bucketsort,Incorrect variable,True,0.0020036697387695312,
+depth_first_search,Incorrect method called,True,0.002004861831665039,
+detect_cycle,Incorrect variable,True,0.0019989013671875,
+find_first_in_sorted,Incorrect assignment operator,True,0.003005504608154297
+find_in_sorted,Missing function call,True,0.002003908157348633,
+flatten,Missing function call,True,0.0019996166229248047,
+gcd,Missing arithmetic expression,True,0.0009996891021728516,
+get_factors,Incorrect data structure constant,True,0.0030298233032226562
+hanoi,Incorrect method called,True,0.0019958019256591797,
+is_valid_parenthesization,Incorrect assignment operator,True,0.002989053726196289
+kheapsort,Incorrect variable,True,0.0019989013671875
+knapsack,Incorrect variable,True,0.007996320724487305
+kth,Missing function call,True,0.0020008087158203125
+lcs_length,Incorrect assignment operator,True,0.0020024776458740234,
+levenshtein,Incorrect array slice,True,0.001995563507080078
+lis,Incorrect assignment operator,True,0.0029964447021484375,
+longest_common_subsequence,Incorrect array slice,True,0.0030007362365722656
+max_sublist_sum,Incorrect assignment operator,True,0.0010001659393310547
+mergesort,Incorrect assignment operator,True,0.00401616096496582
+minimum_spanning_tree,Incorrect method called,True,0.001986980438232422
+next_palindrome,Missing line,True,0.003995418548583984
+next_permutation,Incorrect variable,True,0.0030066967010498047
+node,Missing function call,True,0.003000497817993164
+pascal,Incorrect variable,True,0.001997709274291992
+possible_change,Missing line,True,0.0009932518005371094
+powerset,Incorrect assignment operator,True,0.0009989738464355469
+quicksort,Incorrect assignment operator,True,0.001984119415283207
+reverse_linked_list,Incorrect assignment operator,True,0.0009827613830566406
+rpn_eval,Incorrect variable,True,0.002986431121826172
+shortest_paths,Incorrect assignment operator,True,0.0015377998352050781
+shortest_path_length,Missing line,True,0.005989789962768555
+shortest_path_lengths,Incorrect variable,True,0.0029976367950439453
+shunting_yard,Incorrect method called,True,0.001993417739868164
+sieve,Incorrect variable,True,0.001996755599975586
+sqrt,Incorrect variable,True,0.0009875297546386719
+subsequences,Incorrect data structure constant,True,0.0020055770874023438
+topological_ordering,Incorrect variable,True,0.001995563507080078
+to_base,Incorrect assignment operator,True,0.0020210742950439453
+wrap,Incorrect method called,True,0.0020008087158203125

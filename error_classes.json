@@ -1,0 +1,12 @@
+[
+  {
+    "error_class": "Off-by-One Error",
+    "description": "..."
+    
+  },
+  {
+    "error_class": "Incorrect Bitwise Operation",
+    "description": "Incorrect use of bitwise XOR (^) instead of AND (&)..."
+    
+  }
+]
